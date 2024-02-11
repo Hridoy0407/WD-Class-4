@@ -1,0 +1,12 @@
+
+
+git clone....
+
+====New Code Push===
+Git status
+
+git add .
+
+git commit -m"Any message"
+
+git push
